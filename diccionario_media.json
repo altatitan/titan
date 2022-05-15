@@ -1,0 +1,29 @@
+{
+    "null": {
+        "rugby_competición_nacional_m23": "rugby_división_de_honor"
+    }, 
+    "fanart": {
+        "fútbol_americano": "rugby_fanart", 
+        "mma": "boxeo_fanart", 
+        "muay_thai": "boxeo_fanart"
+    }, 
+    "icon": {
+        "atletismo_campeonato_de_españa": "atletismo_rfea", 
+        "atletismo_kip_kenio_classic": "atletismo_world_athletics", 
+        "automovilismo_gran_premio_de_camiones": "automovilismo_fia", 
+        "balonmano_women's_ehf_european_cup": "balonmano_women's_ehf_european", 
+        "balonmano_women's_ehf_european_league": "balonmano_women's_ehf_european", 
+        "fútbol_liga_nacional_juvenil": "fútbol_rfef", 
+        "fútbol_preferente_alevín": "fútbol_rfef", 
+        "fútbol_preferente_benjamín": "fútbol_rfef", 
+        "fútbol_superliga_cadete": "fútbol_rfef", 
+        "fútbol_superliga_infantil": "fútbol_rfef", 
+        "hockey_hierba_liga_femenina_final_four": "hockey_hierba_rfeh", 
+        "hockey_hierba_liga_masculiana_final_four": "hockey_hierba_rfeh", 
+        "kickboxing": "mma", 
+        "muay_thai": "mma", 
+        "piragüismo": "remo", 
+        "tenis_torneo_de_la_bisbal": "tenis_itf_world_tennis_tour_women", 
+        "tenis_wta_madrid": "tenis_mutua_madrid_open"
+    }
+}

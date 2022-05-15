@@ -1,0 +1,40 @@
+{
+    "Baloncesto": {
+        "basketball champions league": "Champions League", 
+        "eurocup": "Eurocup", 
+        "euroliga": "Euroleague", 
+        "liga acb": "Liga Endesa", 
+        "liga femenina endesa": "Liga Femenina Endesa"
+    }, 
+    "Fútbol": {
+        "1. bundesliga": "Bundesliga", 
+        "1. division relegation group": "1. División (Dinamarca)", 
+        "2. bundesliga": "Bundesliga 2", 
+        "bundesliga championship group": "Bundesliga (Austria)", 
+        "champions league": "UEFA Champions League", 
+        "europa conference league": "UEFA Europa Conference League", 
+        "europa league": "UEFA Europa League", 
+        "j.league": "J. League", 
+        "k-league 1": "K League 1", 
+        "la liga": "LaLiga", 
+        "laliga 2": "LaLiga SmartBank", 
+        "laliga2": "LaLiga SmartBank", 
+        "liga iberdrola femenina": "Primera Iberdrola", 
+        "ligue 1": "Francia Ligue 1", 
+        "major league soccer": "MLS", 
+        "mic football": "Torneo MIC", 
+        "primeira liga": "Liga Portugal", 
+        "serie a": "Serie A Italiana", 
+        "serie b": "Serie B Italiana", 
+        "sky bet league one": "League One", 
+        "super lig": "Süper Lig"
+    }, 
+    "Motociclismo": {
+        "superbike": "Superbike", 
+        "wsbk": "Superbike"
+    }, 
+    "Tenis": {
+        "masters madrid": "Mutua Madrid Open", 
+        "mutua madrid": "Mutua Madrid Open"
+    }
+}
