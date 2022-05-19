@@ -1,7 +1,4 @@
 {
-    "null": {
-        "rugby_competición_nacional_m23": "rugby_división_de_honor"
-    }, 
     "fanart": {
         "fútbol_americano": "rugby_fanart", 
         "mma": "boxeo_fanart", 
@@ -13,6 +10,7 @@
         "automovilismo_gran_premio_de_camiones": "automovilismo_fia", 
         "balonmano_women's_ehf_european_cup": "balonmano_women's_ehf_european", 
         "balonmano_women's_ehf_european_league": "balonmano_women's_ehf_european", 
+        "campeonato_de_españa_de_clubes": "baloncesto_federación", 
         "fútbol_liga_nacional_juvenil": "fútbol_rfef", 
         "fútbol_preferente_alevín": "fútbol_rfef", 
         "fútbol_preferente_benjamín": "fútbol_rfef", 
@@ -23,6 +21,7 @@
         "kickboxing": "mma", 
         "muay_thai": "mma", 
         "piragüismo": "remo", 
+        "rugby_competición_nacional_m23": "rugby_división_de_honor", 
         "tenis_torneo_de_la_bisbal": "tenis_itf_world_tennis_tour_women", 
         "tenis_wta_madrid": "tenis_mutua_madrid_open"
     }
