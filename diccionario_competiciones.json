@@ -13,7 +13,6 @@
         "bundesliga championship group": "Bundesliga (Austria)", 
         "campeonato de europa sub-17": "Europeo Sub-17", 
         "champions league": "UEFA Champions League", 
-        "club friendly": "Amistoso", 
         "copa de alemania": "DFB Pokal", 
         "europa conference league": "UEFA Europa Conference League", 
         "europa league": "UEFA Europa League", 
@@ -38,6 +37,10 @@
     "Motociclismo": {
         "superbike": "Superbike", 
         "wsbk": "Superbike"
+    }, 
+    "Rugby": {
+        "champions cup": "European Champions Cup", 
+        "división de honor rugby": "División de Honor"
     }, 
     "Tenis": {
         "masters madrid": "Mutua Madrid Open", 
