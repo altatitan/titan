@@ -21,10 +21,14 @@
         "hockey_hierba_liga_femenina_final_four": "hockey_hierba_rfeh", 
         "hockey_hierba_liga_masculiana_final_four": "hockey_hierba_rfeh", 
         "kickboxing": "mma", 
+        "kárate": "mma", 
         "muay_thai": "mma", 
         "piragüismo": "remo", 
         "rugby_competición_nacional_m23": "rugby_división_de_honor", 
         "tenis_torneo_de_la_bisbal": "tenis_itf_world_tennis_tour_women", 
         "tenis_wta_madrid": "tenis_mutua_madrid_open"
+    }, 
+    "icon ": {
+        "rugby_fase_final_de_ascenso_a_división_de_honor": "rugby_federación"
     }
 }
